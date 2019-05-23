@@ -8,17 +8,24 @@ h1{
   font-family: 'Pacifico', cursive;
   font-size: 700%;
 }
-
-.nav-container{
-  background-clip: #e1cf02;
-  width: 100%;  
+.highlight{
+  background-color: #e1cf02;
+  height: 10px;
 }
-
 .navbar-custom {
-  background-color: #e1cf02;  
+  background-color: lightblue;  
   width: 100%;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #3c4057;
+  color: white;
+  text-align: center;
+}
  
 
 

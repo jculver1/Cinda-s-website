@@ -1,13 +1,22 @@
 import React from 'react'
-import Navbar from './Navbar'
 
 const Home = () => {
     return(
         <div>
-            <Navbar/>
             <div>
                 <div class='row header d-flex justify-content-center align-items-center'>
                     <h1>Cinda's Crafty Creations</h1>
+                </div>
+                <div class='row highlight'>
+
+                </div>
+                <div class='row'>
+                    <div class='col-6'>
+
+                    </div>
+                    <div class='col-6'>
+
+                    </div>
                 </div>
             </div>
         </div>
