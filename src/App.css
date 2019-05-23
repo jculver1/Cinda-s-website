@@ -2,3 +2,23 @@
   background-color: #3c4057;
   height: 400px;
 }
+
+h1{
+  color: #6cebd3;
+  font-family: 'Pacifico', cursive;
+  font-size: 700%;
+}
+
+.nav-container{
+  background-clip: #e1cf02;
+  width: 100%;  
+}
+
+.navbar-custom {
+  background-color: #e1cf02;  
+  width: 100%;
+}
+
+ 
+
+

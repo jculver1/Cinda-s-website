@@ -6,7 +6,7 @@ const Home = () => {
         <div>
             <Navbar/>
             <div>
-                <div class='row header'>
+                <div class='row header d-flex justify-content-center align-items-center'>
                     <h1>Cinda's Crafty Creations</h1>
                 </div>
             </div>
